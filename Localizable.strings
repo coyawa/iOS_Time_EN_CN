@@ -108,7 +108,7 @@
 "Daily reminder" = "每日提醒";
 
 /*Settings: support instructions*/
-"Email support@bluecocoa.com for help" = "如需帮助请发邮件给 support@bluecocoa.com ";
+"Email support@bluecocoa.com for help" = "如需帮助请发邮件给 support@bluecocoa.com";
 
 /*Settings: daily reminder instructions*/
 "Get a daily notification to use Time" = "开启Time每日提醒";
@@ -175,4 +175,3 @@
 
 /*Language*/
 "English" = "Chinese";
-

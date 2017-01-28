@@ -84,16 +84,16 @@
 "Drag up or down to adjust time. Pull all the way down to complete!" = "可上下滑动来调节时间长短，继续向下滑动即可标记任务为已完成。";
 
 /*Onboarding step 1*/
-"Get ready to beat procrastination! Go ahead and add your first task. ????" = " ";
+"Get ready to beat procrastination! Go ahead and add your first task. 👆" = "准备好和我一起打败拖延症了吗，现在就添加我们的第一个任务吧！👆";
 
 /*Onboarding step 4*/
-"If you want notifications when time is up, hit \"Allow\" in the popup! ????" = " ";
+"If you want notifications when time is up, hit \"Allow\" in the popup! 🚨" = "如果你希望收到任务时间结束的提醒，请在弹出窗口点击“允许” 🚨";
 
 /*Onboarding step 2*/
-"Start your task by tapping on it! ????" = " ";
+"Start your task by tapping on it! 🔥" = "点击任务空白部分来开始我们的第一个任务吧！🔥";
 
 /*Onboarding step 5*/
-"You now know how to use Time, enjoy... and stay focused! ????" = " ";
+"You now know how to use Time, enjoy... and stay focused! 😊" = "这些就是Time的全部了，接下来就交给你了，保持专注哦！😊";
 
 /*Action indicating to set no daily reminder.*/
 "None" = "无";
@@ -102,7 +102,7 @@
 "Rate on App Store" = "请在App Store给我们好评！";
 
 /*Great*/
-"Great!" = "太牛了！";
+"Great!" = "太棒了！";
 
 /*Settings: daily reminder name*/
 "Daily reminder" = "每日提醒";
@@ -111,7 +111,7 @@
 "Email support@bluecocoa.com for help" = "如需帮助请发邮件给 support@bluecocoa.com ";
 
 /*Settings: daily reminder instructions*/
-"Get a daily notification to use Time" = "开启每日Time使用提醒";
+"Get a daily notification to use Time" = "开启Time每日提醒";
 
 /*Settings: keep screen on header*/
 "Keep screen on" = "屏幕保持常亮";
@@ -147,13 +147,13 @@
 "Yesterday" = "昨日";
 
 /*total time*/
-"Time Worked" = "使用时长";
+"Time Worked" = "##";
 
 /*productive time*/
-"Time Saved" = "节省时长";
+"Time Saved" = "##";
 
 /*unproductive time*/
-"Time Added" = "##？？";
+"Time Added" = "##";
 
 /*Abbreviations for minutes, as short as possible.*/
 "min" = "分钟";
@@ -174,16 +174,5 @@
 "Introducing statistics! Now, you can see how much time you saved, added, and worked per day." = "新增统计功能！现在你可以查阅到自己使用Time的详细记录。";
 
 /*Language*/
-"English" = "英语";
+"English" = "Chinese";
 
-/*Onboarding step 1*/
-"Get ready to beat procrastination! Go ahead and add your first task. 👆" = "准备好和我一起打败拖延症了吗，现在就添加我们的第一个任务吧！👆";
-
-/*Onboarding step 4*/
-"If you want notifications when time is up, hit \"Allow\" in the popup! 🚨" = "如果你希望收到任务时间结束的提醒，请在弹出窗口点击“允许” 🚨";
-
-/*Onboarding step 2*/
-"Start your task by tapping on it! 🔥" = "点击任务空白部分来开始我们的第一个任务吧！🔥";
-
-/*Onboarding step 5*/
-"You now know how to use Time, enjoy... and stay focused! 😊" = "这些就是Time的全部了，接下来就交给你了，保持专注哦！😊";

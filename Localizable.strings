@@ -78,7 +78,7 @@
 "Pause Task" = "暂停任务";
 
 /*Imperative that indicates opening Time.*/
-"Open Time" = "？？";
+"Open Time" = "打开Time";
 
 /*Onboarding step 3*/
 "Drag up or down to adjust time. Pull all the way down to complete!" = "可上下滑动来调节时间长短，继续向下滑动即可标记任务为已完成。";

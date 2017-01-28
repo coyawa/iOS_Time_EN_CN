@@ -1,0 +1,49 @@
+
+/* Class = "UILabel"; text = "What's New"; ObjectID = "4MZ-co-lMw"; */
+"4MZ-co-lMw.text" = "最近更新";
+
+/* Class = "UITextField"; text = "Task Time"; ObjectID = "4Sb-2b-ZVz"; */
+"4Sb-2b-ZVz.text" = "Durée de la tâche";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "BTT-j3-NE6"; */
+"BTT-j3-NE6.normalTitle" = "Oui";
+
+/* Class = "UILabel"; text = "Task Time"; ObjectID = "FRQ-mB-4Gd"; */
+"FRQ-mB-4Gd.text" = "Durée de la tâche";
+
+/* Class = "UITextField"; text = "Task Time"; ObjectID = "HuK-Ih-tGn"; */
+"HuK-Ih-tGn.text" = "Durée de la tâche";
+
+/* Class = "UIButton"; normalTitle = "Rate on App Store"; ObjectID = "LEf-3j-9hk"; */
+"LEf-3j-9hk.normalTitle" = "去App Store评分";
+
+/* Class = "UILabel"; text = "OVERTIME"; ObjectID = "VBe-KH-Lsa"; */
+"VBe-KH-Lsa.text" = "已超时";
+
+/* Class = "UILabel"; text = "Suggestion message"; ObjectID = "VXB-eR-7xF"; */
+"VXB-eR-7xF.text" = "Suggestion message";
+
+/* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "bq7-rg-rV7"; */
+"bq7-rg-rV7.normalTitle" = "不用了，谢谢";
+
+/* Class = "UILabel"; text = "Enjoying Time?"; ObjectID = "bwI-Vo-kxX"; */
+"bwI-Vo-kxX.text" = "喜欢我们的产品吗?";
+
+/* Class = "UILabel"; text = "Onboarding message"; ObjectID = "i5j-7N-XEx"; */
+"i5j-7N-XEx.text" = "Onboarding message";
+
+/* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "jDH-CS-LF8"; */
+"jDH-CS-LF8.normalTitle" = "不用了，谢谢";
+
+/* Class = "UITextField"; text = "Task Name"; ObjectID = "jG9-76-g0G"; */
+"jG9-76-g0G.text" = "Nom de la tâche";
+
+/* Class = "UILabel"; text = "VERSION 1.0.2"; ObjectID = "n4g-fP-ebQ"; */
+"n4g-fP-ebQ.text" = "VERSION 1.0.2";
+
+/* Class = "UILabel"; text = "Task Name"; ObjectID = "nFe-Yx-92u"; */
+"nFe-Yx-92u.text" = "Nom de la tâche";
+
+/* Class = "UITextField"; text = "Task Name"; ObjectID = "u8f-MP-KU3"; */
+"u8f-MP-KU3.text" = "Nom de la tâche";
+

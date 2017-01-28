@@ -84,16 +84,16 @@
 "Drag up or down to adjust time. Pull all the way down to complete!" = "可上下滑动来调节时间长短，继续向下滑动即可标记任务为已完成。";
 
 /*Onboarding step 1*/
-"Get ready to beat procrastination! Go ahead and add your first task. ������" = "";
+"Get ready to beat procrastination! Go ahead and add your first task. ������" = " ";
 
 /*Onboarding step 4*/
-"If you want notifications when time is up, hit \"Allow\" in the popup! ������" = "";
+"If you want notifications when time is up, hit \"Allow\" in the popup! ������" = " ";
 
 /*Onboarding step 2*/
-"Start your task by tapping on it! ������" = "";
+"Start your task by tapping on it! ������" = " ";
 
 /*Onboarding step 5*/
-"You now know how to use Time, enjoy... and stay focused! ������" = "";
+"You now know how to use Time, enjoy... and stay focused! ������" = " ";
 
 /*Action indicating to set no daily reminder.*/
 "None" = "无";
@@ -147,34 +147,34 @@
 "Yesterday" = "昨日";
 
 /*total time*/
-"Time Worked" = "？？";
+"Time Worked" = "使用时长";
 
 /*productive time*/
-"Time Saved" = "？？";
+"Time Saved" = "节省时长";
 
 /*unproductive time*/
-"Time Added" = "？？";
+"Time Added" = "##？？";
 
 /*Abbreviations for minutes, as short as possible.*/
 "min" = "分钟";
 
 /*The second update we made to the app*/
-"Fixed a bug where completed tasks that had been added back would have extremely long durations." = "";
+"Fixed a bug where completed tasks that had been added back would have extremely long durations." = "修正已完成任务被重新添加为新任务时的超长时间bug。";
 
 /*The third update we made to the app*/
-"Fixed an issue where data would clear for old users. This has been fixed for upgrades from versions 1.0.1 - 1.0.5." = "";
+"Fixed an issue where data would clear for old users. This has been fixed for upgrades from versions 1.0.1 - 1.0.5." = "修正老用户记录被清空的问题。该问题已在v1.0.1到v1.0.5升级中修复。";
 
 /*The fourth update we made to the app*/
-"Fixed reordering and mute button bugs." = "";
+"Fixed reordering and mute button bugs." = "修正排序功能和静音按钮bug。";
 
 /*The fifth update we made to the app*/
-"Fixed some layout issues on the completed tasks screen." = "";
+"Fixed some layout issues on the completed tasks screen." = "修正一些任务完成界面的排版问题。";
 
 /*The first update we made to the app*/
-"Introducing statistics! Now, you can see how much time you saved, added, and worked per day." = "";
+"Introducing statistics! Now, you can see how much time you saved, added, and worked per day." = "新增统计功能！现在你可以查阅到自己使用Time的详细记录。";
 
 /*Language*/
-"English" = "";
+"English" = "英语";
 
 /*Onboarding step 1*/
 "Get ready to beat procrastination! Go ahead and add your first task. 👆" = "准备好和我一起打败拖延症了吗，现在就添加我们的第一个任务吧！👆";
@@ -186,4 +186,4 @@
 "Start your task by tapping on it! 🔥" = "点击任务空白部分来开始我们的第一个任务吧！🔥";
 
 /*Onboarding step 5*/
-"You now know how to use Time, enjoy... and stay focused! 😊" = "这些就是Time的全部了，接下来就交给你了，保持专注哦！";
+"You now know how to use Time, enjoy... and stay focused! 😊" = "这些就是Time的全部了，接下来就交给你了，保持专注哦！😊";

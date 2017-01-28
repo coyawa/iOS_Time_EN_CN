@@ -36,7 +36,7 @@
 "tasks" = "任务";
 
 /*Relative pronoun referring to a Time task or multiple.*/
-"that" = "__";
+"that" = "##";
 
 /*2nd person singular has (possesive), capitalized*/
 "You have" = "你有";
@@ -147,13 +147,13 @@
 "Yesterday" = "昨日";
 
 /*total time*/
-"Time Worked" = "##";
+"Time Worked" = "已使用时长";
 
 /*productive time*/
-"Time Saved" = "##";
+"Time Saved" = "已节省时长";
 
 /*unproductive time*/
-"Time Added" = "##";
+"Time Added" = "额外增加时长";
 
 /*Abbreviations for minutes, as short as possible.*/
 "min" = "分钟";

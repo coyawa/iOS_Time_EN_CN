@@ -1,0 +1,21 @@
+if action.rawValue == 3 {
+                    // Move
+                    return ("你的超高效率工作时间是 \((value as! TimeOfDay).articleDescription.lowercased())! 是否需要我把这个任务安排到那个时间段?", "好的", "不用了，谢谢")
+                } else if action.rawValue == 2 {
+                    // Shorten
+                    return ("你在这件任务的执行上一直非常高效，是否需要我把时间缩短到 \(cell.formatSecondsToNatural(value as! Int, inUI: false))?", "好的", "不用了，谢谢")
+                } else {
+                    // Extend
+                    return ("看起来你分给这个任务的时间不是很多，是否需要我把时间延长到 \(cell.formatSecondsToNatural(value as! Int, inUI: false))?", "好的", "不用了，谢谢")
+                }
+
+// if action.rawValue == 3 {
+//                     // Move
+//                     return ("You're super productive in \((value as! TimeOfDay).articleDescription.lowercased())! Want to move this task to that time?", "Yes", "No thanks")
+//                 } else if action.rawValue == 2 {
+//                     // Shorten
+//                     return ("You're usually very productive with this task! Want to shorten it to \(cell.formatSecondsToNatural(value as! Int, inUI: false))?", "Yes", "No thanks")
+//                 } else {
+//                     // Extend
+//                     return ("You're not very productive with this task. Maybe extend it to \(cell.formatSecondsToNatural(value as! Int, inUI: false))?", "Extend it", "No thanks")
+//                 }

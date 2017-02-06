@@ -1,23 +1,24 @@
-/* Onboarding step 5 */
-"Completing a task feels good right? If you want notifications when time is up, hit \"Allow\" in the popup! 🚨" = "Completing a task feels good right? If you want notifications when time is up, hit \"Allow\" in the popup! 🚨";
 
-/* Onboarding step 1 */
-"Just a few short steps until you beat procrastination for good! Go ahead and add your first task." = "Just a few short steps until you beat procrastination for good! Go ahead and add your first task.";
+/*Onboarding step 5*/
+"Completing a task feels good right? If you want notifications when time is up, hit \"Allow\" in the popup! 🚨" = "完成一件任务的感觉很棒！对吧，如果你希望收到到时提醒，请点击“允许” 🚨";
 
-/* Onboarding step 2 */
-"Nice job! Now, tap on your task to start the timer. 👆" = "Nice job! Now, tap on your task to start the timer. 👆";
+/*Onboarding step 1*/
+"Just a few short steps until you beat procrastination for good! Go ahead and add your first task." = "下面由我来介绍Time如何使用，首先请添加你的第一个任务。";
 
-/* Onboarding step 4b */
-"Now, drag all the way down to complete your task. 🔥" = "Now, drag all the way down to complete your task. 🔥";
+/*Onboarding step 2*/
+"Nice job! Now, tap on your task to start the timer. 👆" = "赞！现在请轻触你的一项任务，开始进入计时模式 👆";
 
-/* Onboarding step 4b */
-"Now, tap to complete your task. 🔥" = "Now, tap to complete your task. 🔥";
+/*Onboarding step 4b*/
+"Now, drag all the way down to complete your task. 🔥" = "试试点击任务并向下拖动，任务也会标记为已完成 🔥";
 
-/* Onboarding step 4a */
-"You just paused your task. Whenever you're ready, tap it again to resume!" = "You just paused your task. Whenever you're ready, tap it again to resume!";
+/*Onboarding step 4b*/
+"Now, tap to complete your task. 🔥" = "试试轻触来将任务标记为已完成 🔥";
 
-/* Onboarding step 6 */
-"You now know how to use Time, enjoy and stay focused! 😊" = "You now know how to use Time, enjoy and stay focused! 😊";
+/*Onboarding step 4a*/
+"You just paused your task. Whenever you're ready, tap it again to resume!" = "好了，现在你已将任务暂停，准备好了即可继续！";
 
-/* Onboarding step 3 */
-"You're on a roll! Try dragging up or down to adjust the time. ↕️" = "You're on a roll! Try dragging up or down to adjust the time. ↕️";
+/*Onboarding step 6*/
+"You now know how to use Time, enjoy and stay focused! 😊" = "现在你应该已经学会如何使用Time了，让我们一起打败拖延症吧 😊";
+
+/*Onboarding step 3*/
+"You're on a roll! Try dragging up or down to adjust the time. ↕️" = "看起来一起顺利！试试上下拖动任务来调整任务时长 ↕️";
